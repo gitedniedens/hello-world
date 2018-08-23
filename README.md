@@ -1,3 +1,4 @@
 # hello-world
 First repository for Ed Niedens
-#readme-edits
+
+I am from the Carolinas, but live up north now.
